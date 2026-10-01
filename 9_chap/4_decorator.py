@@ -1,4 +1,4 @@
-'''
+
 def simple_decorator(func):
     def wrapper(*args, **kwargs):
         print("START")
@@ -29,7 +29,7 @@ def add(a, b):
     return a + b
 
 print(add(3, 5))
-'''
+
 
 def log_call(func):
     def wrapper(*args, **kwargs):
