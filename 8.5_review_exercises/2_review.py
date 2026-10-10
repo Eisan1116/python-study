@@ -1,0 +1,1 @@
+{"date": "2026-10-01", "subject": "Python", "minutes": 90, "memo": "9章復習"}
